@@ -2,4 +2,4 @@ This repo is an example repo for this video: https://www.youtube.com/watch?v=nPV
 
 # Main Example file
 
-src/app/components/Email.tsx
+- [src/app/components/Email.tsx](https://github.com/New-Dev-Era/react-email-example/blob/main/src/app/components/Email.tsx)
